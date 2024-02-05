@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains the code and documentation for a Churn Prediction project using data from a telecom company. The goal of the project is to predict customer churn and implement a predictive model. The entire workflow involves exploratory data analysis (EDA), data preprocessing, model training, and deployment on a web application using Streamlit.
+
 The deployed application is accessible https://churn-prediction-mouna.streamlit.app/.
 
 ## Project Structure
