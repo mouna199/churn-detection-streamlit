@@ -18,3 +18,4 @@ The project is organized into several main steps:
 
 3. **Model Deployment:** The `predict.py` is the code for deploying the trained model using Streamlit. The web application allows users to input customer information and receive predictions regarding the likelihood of churn. 
 
+NB: The goal of this project is the deploy an application using various tools, so there is a lot of room for improving this model's predictions.
